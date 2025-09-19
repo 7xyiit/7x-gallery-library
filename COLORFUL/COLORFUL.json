@@ -1,0 +1,15 @@
+{
+    "category": "COLORFUL",
+    "images": [
+      {
+        "id": 1,
+        "filename": "image1.png",
+        "url": "https://raw.githubusercontent.com/7xyiit/7x-gallery-library/refs/heads/main/COLORFUL/image1.png"
+      }
+      {
+        "id": 2,
+        "filename": "image2.png",
+        "url": "https://raw.githubusercontent.com/7xyiit/7x-gallery-library/refs/heads/main/COLORFUL/image2.png"
+      }
+    ]
+  }
