@@ -1,0 +1,10 @@
+{
+    "category": "SILVER",
+    "images": [
+      {
+        "id": 1,
+        "filename": "image1.png",
+        "url": "https://raw.githubusercontent.com/7xyiit/7x-gallery-library/refs/heads/main/SILVER/image1.png"
+      }
+    ]
+  }
