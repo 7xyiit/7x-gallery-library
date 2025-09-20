@@ -10,6 +10,11 @@
         "id": 2,
         "filename": "image2.png",
         "url": "https://raw.githubusercontent.com/7xyiit/7x-gallery-library/refs/heads/main/PAIN/image2.png"
+      },
+      {
+        "id": 3,
+        "filename": "image3.png",
+        "url": "https://raw.githubusercontent.com/7xyiit/7x-gallery-library/refs/heads/main/PAIN/image3.png"
       }
     ]
   }
