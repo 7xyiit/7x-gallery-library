@@ -5,6 +5,11 @@
         "id": 1,
         "filename": "image1.png",
         "url": "https://raw.githubusercontent.com/7xyiit/7x-gallery-library/refs/heads/main/WILD/image1.png"
+      },
+      {
+        "id": 2,
+        "filename": "image2.png",
+        "url": "https://raw.githubusercontent.com/7xyiit/7x-gallery-library/refs/heads/main/WILD/image2.png"
       }
     ]
   }
